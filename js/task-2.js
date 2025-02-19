@@ -1,5 +1,5 @@
-let total = 90;
-let ordered = 45;
+const total = 90;
+const ordered = 45;
 if (total >= ordered) {
   console.log("Замовлення оформлено, звами зв'яжеться менеджер");
 } else {
